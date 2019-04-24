@@ -38,7 +38,7 @@ Objetivo
 
 # Links:
 - Documentación: https://github.com/juanpanasiti/Proyecto-MdI-2019-Documentacion
-- App Cliente:
+- App Cliente: https://github.com/juanpanasiti/Proyecto-MdI-2019-App-Consumidor
 - App Comerciante:
 ---
 Documentación del proyecto para Metodología de la Investigación - año 2019 - Turno Tarde - Grupo M
