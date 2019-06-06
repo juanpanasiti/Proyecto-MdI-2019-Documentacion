@@ -1,0 +1,82 @@
+* txt provisorio para informe *
+
+# Portada
+
+Proyecto
+Metodología de la Investigación
+
+Integrantes:
+Panasiti Juan Marcelo
+Fracapani Fabricio
+Martinez Matías
+Aravena Julio
+
+
+# Índice
+
+a preparar en el documento final
+
+
+# Resumen.
+
+
+Elegimos como proyecto desarrollar una aplicación que permita armar y gestionar listas de compra a partir de datos guargados por el propio usuario.
+Estos datos incluyen productos, precios, lugares, etc.
+
+
+# Introducción.
+
+
+
+# Método.
+
+# Resultados.
+
+# Conclusiones.
+
+# Apéndice.
+
+# Marco teórico.
+
+En este capítulo se describe el funcionamiento, definiciones y características de
+las herramientas utilizadas para la implementación y desarrollo del presente
+proyecto.
+
+Herramientas de Desarrollo
+
+Android Studio
+Utilizado como entorno de desarrollo para la plataforma Android, esta basado en el software IntelliJ IDEA de JetBrains y es publicado de forma gratuita bajo la licencia Apache 2.0, disponible para Windows, Mac OS X y GNU/Linux.
+Algunas de sus caracteristicas principales son:
+-Renderizado en tiempo real.
+-Soporte para construccion basada en Gradle
+-Herramienta Lint para detectar problemas de rendimiento, usabilidad, compatibilidad de versiones y otros problemas.
+-Plantillas para crear diseños comunes de android y otros componentes.
+-Consola para desarrolladores.
+-Entorno unificado para desarrollo para todos los dispositivos android.
+
+Dia
+Es una aplicacion informatica de proposito general para la creacion de diagramas, entre ellos:
+-UML
+-Entidad-relacion
+-Diagrama de redes
+Gracias al paquete dia2code, es posible generar el codigo a escribir si se trabaja sobre un UML. Ademas es multiplataforma.
+El formato para leer y almacenar graficos es XML.
+
+
+
+Plataformas y Frameworks
+
+Android
+
+JDK
+
+Java
+
+XML
+
+
+
+
+# Resultados detallados.
+
+# Bibliografía.
