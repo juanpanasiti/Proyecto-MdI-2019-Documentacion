@@ -1,0 +1,16 @@
+﻿Lista de deseos para la aplicacion:
+===================================
+[ ] Cargar productos y persistirlos en una base de datos
+[ ] Ordenar los productos en categorías
+[ ] Armar listas de productos
+[ ] Cada item de la lista debe poder editarse mientra se realice la compra (agregar/quitar item, cantidad, precio) para llevar una cuenta de lo que 
+saldrá en caja la compra 
+[ ] Cada producto pertenece a una sola caterigoría
+[ ] Las categorías pueden contener subcategorías
+[ ] La aplicación final debe poder correr en cualquier teléfono Android con versión 5.0 o superior
+[ ] La base de datos a utilizar será local a cada equipo y el motor será SQLite
+[ ] Una lista se arma para una fecha determinada y un lugar determinado
+[ ] generar una base de datos adecuada
+[ ] 
+[ ] 
+[ ] 
