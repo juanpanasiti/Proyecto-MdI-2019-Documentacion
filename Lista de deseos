@@ -11,6 +11,7 @@ saldrá en caja la compra
 [ ] La base de datos a utilizar será local a cada equipo y el motor será SQLite
 [ ] Una lista se arma para una fecha determinada y un lugar determinado
 [ ] generar una base de datos adecuada
-[ ] 
-[ ] 
-[ ] 
+[ ] Comparar precios de distintos lugares
+[ ] avisar de precios especiales en un lugar determinado
+[ ] dar la posibilidad de poner un tope de gastos
+[ ] otorgar una lista de precios de cada lugar por separado
