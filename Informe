@@ -30,7 +30,7 @@ Estos datos incluyen productos, precios, lugares, etc.
 
 
 # Método.
-	Realizamos reuniones para distribuir ciertas tareas en las cuales definimos las aplicaciones con las cuales íbamos a trabajar, luego empezamos desarrollando la base de datos para poder hacer un correcto desarrollo de la aplicación pudiendo hacer pruebas en tiempo real mientras desarrollábamos las aplicación
+Realizamos reuniones para distribuir ciertas tareas en las cuales definimos las aplicaciones con las cuales íbamos a trabajar, luego empezamos desarrollando la base de datos para poder hacer un correcto desarrollo de la aplicación pudiendo hacer pruebas en tiempo real mientras desarrollábamos las aplicación
 # Resultados.
 
 # Conclusiones.
@@ -138,10 +138,13 @@ Java
 
 XML
 
-
-
-
-# Resultados detallados.
-
-# Bibliograf�a.
->>>>>>> b3d79c6d1af9b68000df012b606e8289727a6da8
+Como Bibliografía también consultamos:
+- Videotutorial: Curso de Android desde 0 (Canal de YouTube, La geekepedia de Ernesto)
+- Videotutorial: Curso de Java desde 0 (Canal de YouTube, La geekepedia de Ernesto)
+- Videotutorial: Curso de Java intermedio (Canal de YouTube, La geekepedia de Ernesto)
+- Videos de contenido de desarrollo Android (Compartido por Profesor Vargas en la plataforma de la materia Programación II)
+- Libro de Android (Publicado por la revista Users)
+- Libro Java 2 de Ceballos
+- Consultas varias por internet
+- Videotutorial: Curso de Git Gratis (Canal de YouTube, Codigofacilito)
+- Diversos sitios de consultas y foros (Por ejemplo stackoverflow.com)
