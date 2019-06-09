@@ -15,3 +15,8 @@ saldrá en caja la compra
 [ ] avisar de precios especiales en un lugar determinado
 [ ] dar la posibilidad de poner un tope de gastos
 [ ] otorgar una lista de precios de cada lugar por separado
+[ ] Poder modificar el lugar de compra o la fecha elegida en caso de no poder realizar la compra en esa fecha o lugar determinado
+[ ] La aplicación debe ser facil de utilizar para el usuario
+[ ] No debe ser una aplicacion demasiado pesada para poder instalarla en telefonos de gama baja y alta
+[ ] Las bases de datos locales no deben ser muy pesadas para no llenar la memoria del celular del usuario
+
