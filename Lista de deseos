@@ -1,10 +1,10 @@
-﻿Lista de deseos para la aplicacion:
+﻿Lista de deseos para la aplicación:
 ===================================
 [ ] Cargar productos y persistirlos en una base de datos
 [ ] Ordenar los productos en categorías
 [ ] Armar listas de productos
-[ ] Cada item de la lista debe poder editarse mientra se realice la compra (agregar/quitar item, cantidad, precio) para llevar una cuenta de lo que 
-saldrá en caja la compra 
+[ ] Cada item de la lista debe poder editarse mientra se realice la compra (agregar/quitar item, cantidad, precio) para llevar una cuenta de lo que
+saldrá en caja la compra
 [ ] Cada producto pertenece a una sola caterigoría
 [ ] Las categorías pueden contener subcategorías
 [ ] La aplicación final debe poder correr en cualquier teléfono Android con versión 5.0 o superior
@@ -19,4 +19,7 @@ saldrá en caja la compra
 [ ] La aplicación debe ser facil de utilizar para el usuario
 [ ] No debe ser una aplicacion demasiado pesada para poder instalarla en telefonos de gama baja y alta
 [ ] Las bases de datos locales no deben ser muy pesadas para no llenar la memoria del celular del usuario
-
+[ ] Aplicación con pocos colores ,y font simples y grandes para una mayor visión, sin perdida de pregnancia
+[ ] Se puede acceder a la app sin conexión a internet
+[ ] Permitir limpiar todos los items de la lista con un solo boton
+[ ] Interfaz de usuario limpiar y simple, con la particularidad de acceder a todas sus funciones con la lectura de los componentes

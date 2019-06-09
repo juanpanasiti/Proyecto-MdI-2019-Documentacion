@@ -1,7 +1,4 @@
 # Proyecto-MdI-2019-Documentacion
-<<<<<<< HEAD
-Integrantes del grupo Panasiti Juan - Fracapani Fabricio - Martinez Matias - Aravena Julio
-=======
 ### Integrantes del grupo
 - Panasiti Juan
 - Fracapani Fabricio
@@ -42,7 +39,5 @@ Objetivo
 # Links:
 - Documentación: https://github.com/juanpanasiti/Proyecto-MdI-2019-Documentacion
 - App Cliente: https://github.com/juanpanasiti/Proyecto-MdI-2019-App-Consumidor
-- App Comerciante:
 ---
->>>>>>> f72abacf5f744981584fca2ba7d4925a0d5c86e8
 Documentación del proyecto para Metodología de la Investigación - año 2019 - Turno Tarde - Grupo M

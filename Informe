@@ -3,6 +3,13 @@
 
 Proyecto
 Metodología de la Investigación
+=======
+* txt provisorio para informe *
+
+# Portada
+
+Proyecto
+Metodología de la Investigación
 
 Integrantes:
 Panasiti Juan Marcelo
@@ -25,13 +32,116 @@ Estos datos incluyen productos, precios, lugares, etc.
 # Método.
 	Realizamos reuniones para distribuir ciertas tareas en las cuales definimos las aplicaciones con las cuales íbamos a trabajar, luego empezamos desarrollando la base de datos para poder hacer un correcto desarrollo de la aplicación pudiendo hacer pruebas en tiempo real mientras desarrollábamos las aplicación
 # Resultados.
-	
+
 # Conclusiones.
-	
+
 # Apéndice.
-	
+
 # Marco teórico.
-	
+Precios Claros
+Es una app perteneciente al gobierno de la nacion Argentina, que permite buscar los productos que compras habitualmente y comparar sus precios en los distintos comercios.
+Puedes encontrar mas de 70.000 productos de los distintos rubros, como, alimentos, bebidas, limpieza, mascotas, higiene personal, etc.
+Indicando tu ubicacion puedes encontrar los comercios cercanos
+Solo puedes encontrar aquellos comercios que esten incluidos en el programa por merito propio.
+
 # Resultados detallados.
-	
+
 # Bibliografía.
+
+
+En este capítulo se describe el funcionamiento, definiciones y caracter�sticas de las herramientas utilizadas para la implementaci�n y desarrollo del presente proyecto.
+
+Herramientas de Desarrollo
+
+Android Studio
+Utilizado como entorno de desarrollo para la plataforma Android, esta basado en el software IntelliJ IDEA de JetBrains y es publicado de forma gratuita bajo la licencia Apache 2.0, disponible para Windows, Mac OS X y GNU/Linux.
+Algunas de sus caracteristicas principales son:
+-Renderizado en tiempo real.
+-Soporte para construccion basada en Gradle
+-Herramienta Lint para detectar problemas de rendimiento, usabilidad, compatibilidad de versiones y otros problemas.
+-Plantillas para crear dise�os comunes de android y otros componentes.
+-Consola para desarrolladores.
+-Entorno unificado para desarrollo para todos los dispositivos android.
+Usar Android Studio para desarrollar aplicaciones nativas trae consigo muchas ventanas, es el ademas de que Android es el sistema operativo mas deseado por los usuarios y fabricantes.
+Para programar en android se necesitan conocimientos en algun lenguaje de programacion Orientado a Objetos (POO), ya que la plataforma se programa en Java. Tambien podriamos programar con otros tipos de lenguaje de programacion pero, ya no estariamos hablando de aplicaciones nativas, si no de aplicaciones hibridas. Con los IDE pasa lo mismo, podemos utilizar otros, algunos recomendados por el mismo Google para adaptar nuestras aplicaciones, obteniendo aplicaciones hibridas o webapps.
+
+Principales Tipos de Apps
+
+Nativas
+Significa que para su desarrollo se utiliz� el lenguaje de programaci�n nativo del dispositivo, Objetive C o Swift para iOS, Java para Android y .Net para Windows Phone. Es un modelo cien por ciento dependiente de la plataforma y las Apps no son portables, hay que desarrollar una por plataforma.
+
+Hibridas
+Son aplicaciones desarrolladas usando HTML5, CSS y JavaScript, desplegadas dentro de un contenedor nativo como Phonegap/Cordova el cual brinda acceso a las capacidades del dispositivo de una forma totalmente neutral respecto al sistema operativo. Es un modelo neutro respecto a a la plataforma y con portabilidad m�xima.
+
+Generadas
+Son aplicaciones desarrolladas usando herramientas como Xamarin,  Genexus entre otras, en donde el desarrollo se realiza usando t�cnicas y lenguajes espec�ficos de la herramienta y luego se genera la App en el lenguaje de la plataforma destino para ser compilada con las herramientas nativas. Son lo que se denomina falsas nativas, pues si bien sus fabricantes claman generar Apps nativas, �stas no cumplen ni cercanamente con ninguno de los tres paradigmas de las Apps nativas.
+
+Criterio de Evaluacion.
+
+Tiempos y Costos de desarrollo
+El hecho de tener que desarrollar una versi�n de la aplicaci�n para cada plataforma hace que las Apps nativas queden en la peor posici�n en este punto, triplicando el costo de desarrollo.
+
+Por otro lado la simplicidad del HTML + JavaScript, sumado a la capa de abstracci�n que brindan los plugins de Phonegap, haciendo incluso m�s simple el acceso a funciones nativas como la geolocalizaci�n, pushnotifications, aceler�metro, etc., que el desarrollo nativo, sumado a los infinitos recursos disponibles en la web para esta tecnolog�a, todo mediante un API cien por ciento neutral respecto al sistema operativo, hace que desarrollar una App con esta tecnolog�a insuma entre un 30% y un 50% del costo en comparaci�n con las nativas (una plataforma) y generadas.
+
+En el caso de herramientas como Xamarin, si bien se desarrolla usando C#, requiere un conocimiento por parte del desarrollador de la API de cada plataforma, as� como la consideraci�n de estas excepciones durante el desarrollo.
+
+El costo de las herramientas de desarrollo. Tanto Xamarin como Genexus tiene altos costos en este sentido, tanto en licencias como en requerimientos de hardware y software para las distintas plataformas. Para el caso de una �nica App, estos costos pueden ser comparables al costo de desarrollo.
+
+En el caso de MobileUI/Phonegap no hay costos de licencias y mediante el servicio de compilaci�n en la nube de Phonegap Build, tampoco es requerida mayor infraestructura.
+
+Curva de Aprendizaje.
+Para las Apps nativas, se requiere aprender sobre las tres plataformas, lenguajes y API�s, etc., por lo que desde este punto de vista nuevamente este desarrollo queda en �ltimo lugar.
+
+Ahora bien, herramienta a herramienta, considerando una �nica plataforma, la peor curva de aprendizaje se las llevan las generadas, como Xamarin o Genexus, que cuentan con curvas de aprendizaje bastante asentuadas.
+
+Nuevamente la simplicidad del HTML, CSS y JavaScript, sumado a la simple API de MobileUI, hace que un recurso est� r�pidamente capacitado en esta plataforma. Si a esto le sumamos la simplicidad extrema de Phonegap Build para compilar en la nube, nuevamente la opci�n h�brida se lleva el primer lugar.
+
+Calidad de la App
+
+La calidad de la App la analizaremos desde dos perspectivas:
+Experiencia del usuario (UX)
+Rendimiento.
+
+Experiencia de usuario: Como sabemos, la UX depende de factores de dise�o, usabilidad, interacci�n, accesibilidad y calidad visual as� como de factores como las emociones, construcci�n y trasmisi�n de marca, confiabilidad, etc. Definitivamente es algo que va mucho m�s all� de la herramienta de desarrollo, basta con ver las miles de App desarrolladas nativas con una experiencia de usuario desastrosa o web responsive, neutrales al sistema operativo, con experiencias de usuario �ptimas.
+
+Hecha la aclaraci�n y a los efectos de este art�culo, nos limitaremos �nicamente al look&feel espec�fico de la plataforma. Obviamente con el desarrollo nativo la aproximaci�n es inmediata, los controles y transiciones de la plataforma est�n disponibles en la herramienta de desarrollo por lo que su uso es natural e inmediato. En la soluciones con HTML5, con excepci�n de los controles que nativamente brinda el WebView, el resto deben ser simulados usando HTML5 y CSS3, algo que se logra r�pidamente con buen nivel, inclusos algunos existen a nivel de plugins, resultando en nativo. Las Apps generadas, usan los controles nativos, aunque el look&feel general de la App no siempre es �ptimo, sobre todo cuando se sale de lo previsto, ya que el dise�o se realiza con las reglas de la herramienta que luego deben ser interpretadas y convertidas a nativo. No obstante, para los casos comunes se logran tambi�n resultados aceptables.
+
+Ahora bien, si se desea innovar, es decir, ir m�s all� de las reglas preestablecidas, como es com�n en el mundo corporativo, entonces nuevamente las soluciones nativas y las h�bridas son las que brindan la m�xima flexibilidad y las generadas vuelven a estar relegadas. Esto no es una novedad, siempre las herramientas generadoras de software han sido d�biles en las interfaces de usuario. Xamarin.Forms ha hecho un gran esfuerzo para mejorar esto y ha mejorado mucho. No obstante, su estrategia de trabajo es disponer de un conjunto de interfaces preestablecidas y en la pr�ctica siempre termin� resultando una limitaci�n.
+
+Rendimiento: El rendimiento final de la App estar� definido principalmente por la arquitectura general de la soluci�n, su ingenier�a, la inteligencia y resoluci�n de sus componentes server-side, el uso inteligente de los local storage, cache, la capacidad de los webservices y dem�s. La l�gica de negocio normalmente reside en los servidores y su rendimiento juega un papel medular. Tambi�n la cantidad de transferencia de datos y su frecuencia, uno de los puntos por ejemplo que debilita a SOAP frente a REST.
+
+De esta forma, cualquiera de las alternativas analizadas se despliegan en forma aceptable. Si se fuese a hacer un CAD o un juego con gran carga gr�fica ser�a otra historia y quiz�s ah� la alternatvia m�s adecuada ser�a las nativas, aunque en general en estos casos se usan otros tipos de frameworks.
+
+Una consulta com�n acerca de Phonegap es relativo a su velocidad, producto de sus comienzos. Desde la versi�n 3 y con la evoluci�n de los WebView, sumado a proyectos como crosswalk para Android, el rendimiento de estas aplicaciones se ha transformado en �ptimo, sus transiciones suaves y JavaScript es un lenguaje ideal para el tratamiento de servicios REST/JSON. Integrado con MobileUI se logra un rendimiento excelente, similar a las nativas y superior a las generadas, como se puede ver en los casos de �xito de http://www.mobileui.org.
+
+
+
+
+
+Dia
+Es una aplicacion informatica de proposito general para la creacion de diagramas, entre ellos:
+-UML
+-Entidad-relacion
+-Diagrama de redes
+Gracias al paquete dia2code, es posible generar el codigo a escribir si se trabaja sobre un UML. Ademas es multiplataforma.
+El formato para leer y almacenar graficos es XML.
+
+
+
+Plataformas y Frameworks
+
+Android
+
+JDK
+
+Java
+
+XML
+
+
+
+
+# Resultados detallados.
+
+# Bibliograf�a.
+>>>>>>> b3d79c6d1af9b68000df012b606e8289727a6da8
