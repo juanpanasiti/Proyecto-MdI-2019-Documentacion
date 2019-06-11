@@ -1,0 +1,9 @@
+¿Que hicimos?
+Avanzamos con la base de datos y las funciones principales de la App
+
+¿Qué haremos hoy?
+Definir un nombre, logo y empezar con la creación de métodos
+
+¿Hay impedimentos en tu camino?
+La disposición horaria
+
