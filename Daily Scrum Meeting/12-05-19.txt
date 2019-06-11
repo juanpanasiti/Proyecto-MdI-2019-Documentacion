@@ -1,0 +1,19 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 07
+
+Fecha		12 de Mayo de 2019
+Hora		Desde las 14:00 horas hastas las 14:15
+Lugar		Puerta delantera Facultad UTN
+
+Asistentes
+	Aravena Julio
+	Fracapani Fabricio
+	Martinez Matias
+	Juan Panasiti
+
+Se termina la interfaz home y se encuentran con un problema con el entendimiento de la navegabilidad.
+
+Fabricio realizara el diseño de los botones.
+
+Juan realizara el diseño del diagrama de navegabilidad.

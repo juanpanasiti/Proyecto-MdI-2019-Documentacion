@@ -1,0 +1,17 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 04
+
+Fecha		06 de Mayo de 2019
+Hora		Desde las 14:00 horas hastas las 14:15
+Lugar		Puerta delantera Facultad UTN
+
+Asistentes
+	Aravena Julio
+	Fracapani Fabricio
+	Martinez Matias
+	Juan Panasiti
+
+Matias Martinez y Julio Aravena se encargaran del desarrollo de la interfaz de usuario.
+
+El logotipo se encuentra en proceso y ya se completaron las clases producto y lista.
