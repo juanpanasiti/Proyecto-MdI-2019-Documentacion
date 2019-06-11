@@ -1,0 +1,8 @@
+¿Que hicimos?
+Estandarizamos el software a utilizar y empezamos a definir los parámetros de la App
+
+¿Qué haremos hoy?
+Terminar de definir los parámetros y funciones de la App
+
+¿Hay impedimentos en tu camino?
+Las otras materias y el desconocimiento del software

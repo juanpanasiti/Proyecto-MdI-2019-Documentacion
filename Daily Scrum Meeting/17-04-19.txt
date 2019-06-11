@@ -1,0 +1,8 @@
+¿Que hicimos?
+Definimos la idea general del proyecto
+
+¿Qué haremos hoy?
+Definir las Herramientas a utilizar, para estandarisar los programas
+
+¿Hay impedimentos en tu camino?
+La diferencia de sistemas operativos
