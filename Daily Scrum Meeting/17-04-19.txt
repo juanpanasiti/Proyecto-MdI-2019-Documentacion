@@ -1,0 +1,25 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 
+
+Fecha		17-04-19
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+
+
+
+¿Que hicimos?
+Definimos la idea general del proyecto
+
+¿Qué haremos hoy?
+Definir las Herramientas a utilizar, para estandarisar los programas
+
+¿Hay impedimentos en tu camino?
+La diferencia de sistemas operativos
