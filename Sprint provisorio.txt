@@ -1,0 +1,9 @@
+Plan del Sprint
+
+12-06-2019
+
+Se estima que para esta fecha ya debemos tener funcionando las categorias de los diferentes productos y tambien la union con la base de datos 
+
+fecha a estipular
+
+Se debe crear la interfaz grafica del producto, unirla con los metodos y bases de datos anteroirmente creada y testing del funcionamiento de la App

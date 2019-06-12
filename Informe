@@ -22,6 +22,15 @@ a preparar en el documento final
 
 Elegimos como proyecto desarrollar una aplicaci�n que permita armar y gestionar listas de compra a partir de datos guargados por el propio usuario.
 Estos datos incluyen productos, precios, lugares, etc.
+Planificación
+•	Roles
+o	Product Owner: Panasiti Juan
+o	Scrum Master: Fracapani Fabricio
+o	DevTeam:
+	Aravena Julio
+	Martinez Matías
+	Fracapani Fabricio
+
 
 
 # Introducci�n.
@@ -29,6 +38,8 @@ Estos datos incluyen productos, precios, lugares, etc.
 
 
 # M�todo.
+Realizamos reuniones para distribuir ciertas tareas en las cuales definimos las aplicaciones con las cuales íbamos a trabajar, luego empezamos desarrollando la base de datos para poder hacer un correcto desarrollo de la aplicación pudiendo hacer pruebas en tiempo real mientras desarrollábamos las aplicación
+Creamos un grupo de Whatsapp para poder producir los dailys y mantenernos actualizados entre nosotros con las ultimas novedades y noticias pertinentes a la app
 
 # Resultados.
 
@@ -40,7 +51,7 @@ Estos datos incluyen productos, precios, lugares, etc.
 
 Precios Claros
 Es una app perteneciente al gobierno de la nacion Argentina, que permite buscar los productos que compras habitualmente y comparar sus precios en los distintos comercios.
-Puedes encontrar mas de 70.000 productos de los distintos rubros, como, alimentos, bebidas, limpieza, mascotas, higiene personal, etc.
+Puedes encontrar mas de 70.000 productos de los distintos rubros/categorías, como, alimentos, bebidas, limpieza, mascotas, higiene personal, etc.
 Indicando tu ubicacion puedes encontrar los comercios cercanos
 Solo puedes encontrar aquellos comercios que esten incluidos en el programa por merito propio.
 
@@ -112,7 +123,8 @@ Una consulta com�n acerca de Phonegap es relativo a su velocidad, producto de su
 
 
 
-
+Firebase
+Firebase se trata de una plataforma móvil creada por Google, cuya principal función es desarrollar y facilitar la creación de apps de elevada calidad de una forma rápida, con el fin de que se pueda aumentar la base de usuarios y ganar más dinero. La plataforma está subida en la nube y está disponible para diferente plataformas como iOS, Android y web. Contiene diversas funciones para que cualquier desarrollador pueda combinar y adaptar la plataforma a medida de sus necesidades.
 
 Dia
 Es una aplicacion informatica de proposito general para la creacion de diagramas, entre ellos:
@@ -122,7 +134,13 @@ Es una aplicacion informatica de proposito general para la creacion de diagramas
 Gracias al paquete dia2code, es posible generar el codigo a escribir si se trabaja sobre un UML. Ademas es multiplataforma.
 El formato para leer y almacenar graficos es XML.
 
+Se utilizo tambien:
 
+Discord 
+Este programa permite comunicarse a través de servidores privados, en los cuales podemos mandar mensajes y hablar con otras personas. Tambien permite el intercambio de archivos y la funcionalidad de poder visualizar el escritorio ajeno, lo que nos permite guiarnos si alguno esta perdido en algun tema o explicar algo.
+
+GitHub
+GitHub es un sitio web y un servicio en la nube que ayuda a los desarrolladores a almacenar y administrar su código, al igual que llevar un registro y control de cualquier cambio sobre este código.
 
 Plataformas y Frameworks
 
@@ -134,9 +152,24 @@ Java
 
 XML
 
-
-
-
 # Resultados detallados.
 
 # Bibliograf�a.
+
+Trello
+
+Como Bibliografía también consultamos:
+- Videotutorial: Curso de Android desde 0 (Canal de YouTube, La geekepedia de Ernesto)
+- Videotutorial: Curso de Java desde 0 (Canal de YouTube, La geekepedia de Ernesto)
+- Videotutorial: Curso de Java intermedio (Canal de YouTube, La geekepedia de Ernesto)
+- Videos de contenido de desarrollo Android (Compartido por Profesor Vargas en la plataforma de la materia Programación II)
+- Libro de Android (Publicado por la revista Users)
+- Libro Java 2 de Ceballos
+- Consultas varias por internet
+- Videotutorial: Curso de Git Gratis (Canal de YouTube, Codigofacilito)
+- Diversos sitios de consultas y foros (Por ejemplo stackoverflow.com)
+-cursoslared.com Tutorial para principiantes de anddroid studio
+- https://tutorialesenpdf.com/android-studio/ guia de android studio
+- developer.android.com guia de android studio
+- www.scrumguides.org guias de como aplicarle el Scrum al proyecto
+
