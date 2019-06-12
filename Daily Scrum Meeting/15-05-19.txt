@@ -1,9 +1,20 @@
-¿Que hicimos?
-Avanzamos con la base de datos y las funciones principales de la App
+Acta de Reunion del Equipo de Desarrollo
 
-¿Qué haremos hoy?
-Definir un nombre, logo y empezar con la creación de métodos
 
-¿Hay impedimentos en tu camino?
-La disposición horaria
+Fecha		15-05-19
+Hora		Desde las 19:00 horas hastas las 19:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+Se avanzo con la base de datos y con las funciones principates de la aplicación
+
+
+Hoy se definio el nombre, logo y se comenzo con la creación de métodos
+
+Los impedimentos mas grandes encontrados son la cantidad de parciales y globales que tenemos al corto tiempo y como eso nos va a afectar con el tiempo 
 

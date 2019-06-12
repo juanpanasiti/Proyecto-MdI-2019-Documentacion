@@ -1,8 +1,21 @@
-¿Que hicimos?
-Estandarizamos el software a utilizar y empezamos a definir los parámetros de la App
+Acta de Reunion del Equipo de Desarrollo
 
-¿Qué haremos hoy?
-Terminar de definir los parámetros y funciones de la App
+Acta 02
 
-¿Hay impedimentos en tu camino?
-Las otras materias y el desconocimiento del software
+Fecha		01-05-19
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+Se estandarizo el software a utilizar y se empezo a definir los parametros de la aplicacion
+
+Se trabajara en definir los parámetros y las diferentes funciones de la app
+
+Los impedimentos que vislumbramos son las otras materias, el cursado y la falta de conocimiento de los software a utilizar
+
+
