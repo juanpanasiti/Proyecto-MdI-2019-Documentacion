@@ -1,0 +1,27 @@
+To Do
+
+Diseño dee categorias Bebidas
+Diseño cateegoria higiene y Belleeza
+Diseño categoría Carnes, Congelados y Frios
+Diseño categoría Mascotas
+Diseño categoría Limpieza y Hogar
+
+Doing
+
+Diseño Home con botones Categorias
+ListView categorías creadas
+Creación de los métodos CRUD para Product
+Agregar metodos de la App
+
+Código hecho para testear/Revisar
+
+Creacion de los métodos CRUD para Categoría
+Creación de las tablas de la base de datos (SQLite)
+
+Done
+
+Diseño de logo
+Desarrollo de navegavilidad (intents) de la app entre categorias y home
+Testing de desarrollo de navegavilidad de la app entre categorías y home
+Daly Scrum hasta 12-06-19
+Desarrollo Backlog
