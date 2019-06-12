@@ -5,6 +5,11 @@ Diseño cateegoria higiene y Belleeza
 Diseño categoría Carnes, Congelados y Frios
 Diseño categoría Mascotas
 Diseño categoría Limpieza y Hogar
+Consultas para pedir productos por categoría
+Creación de los métodos CRUD para Buylist
+Creación de los métodos CRUD para Item
+Consultas para pedir listas terminadas (se hizo la compra)
+Consultas para pedir los precios de un producto en las listas terminadas
 
 Doing
 
@@ -16,7 +21,7 @@ Agregar metodos de la App
 Código hecho para testear/Revisar
 
 Creacion de los métodos CRUD para Categoría
-Creación de las tablas de la base de datos (SQLite)
+
 
 Done
 
@@ -25,3 +30,10 @@ Desarrollo de navegavilidad (intents) de la app entre categorias y home
 Testing de desarrollo de navegavilidad de la app entre categorías y home
 Daly Scrum hasta 12-06-19
 Desarrollo Backlog
+Desarrollo de las tablas de la base de datos:
+    Product
+    Category
+    Buylist
+    Item
+Codificación de la clase administradora de la base de datos con el CRUD básico del cual heredarán las demás clases
+Codificación del CRUD de Category
