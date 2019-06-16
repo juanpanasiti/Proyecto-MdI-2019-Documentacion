@@ -1,39 +1,39 @@
 To Do
+=====
 
-Diseño dee categorias Bebidas
-Diseño cateegoria higiene y Belleeza
-Diseño categoría Carnes, Congelados y Frios
-Diseño categoría Mascotas
-Diseño categoría Limpieza y Hogar
-Consultas para pedir productos por categoría
-Creación de los métodos CRUD para Buylist
-Creación de los métodos CRUD para Item
-Consultas para pedir listas terminadas (se hizo la compra)
-Consultas para pedir los precios de un producto en las listas terminadas
+- Consultas para pedir productos por categoría
+- Creación de los métodos CRUD para Buylist
+- Creación de los métodos CRUD para Item
+- Consultas para pedir listas terminadas (se hizo la compra)
+- Consultas para pedir los precios de un producto en las listas terminadas
+- Creación de los métodos CRUD para BuyList
+- Creación de los métodos CRUD para Item
 
 Doing
+=====
 
-Diseño Home con botones Categorias
-ListView categorías creadas
-Creación de los métodos CRUD para Product
-Agregar metodos de la App
+- Diseño Home con botones Categorias
+- ListView categorías creadas
+- Creación de los métodos CRUD para Product
+- Agregar metodos de la App
+
 
 Código hecho para testear/Revisar
 
-Creacion de los métodos CRUD para Categoría
+- Creacion de los métodos CRUD para Categoría
 
 
 Done
 
-Diseño de logo
-Desarrollo de navegavilidad (intents) de la app entre categorias y home
-Testing de desarrollo de navegavilidad de la app entre categorías y home
-Daly Scrum hasta 12-06-19
-Desarrollo Backlog
-Desarrollo de las tablas de la base de datos:
-    Product
-    Category
-    Buylist
-    Item
-Codificación de la clase administradora de la base de datos con el CRUD básico del cual heredarán las demás clases
-Codificación del CRUD de Category
+- Diseño de logo
+- Desarrollo de navegavilidad (intents) de la app entre categorias y home
+- Testing de desarrollo de navegavilidad de la app entre categorías y home
+- Daly Scrum hasta 12-06-19
+- Desarrollo Backlog
+- Desarrollo de las tablas de la base de datos:
+    - Product
+    - Category
+    - Buylist
+    - Item
+- Codificación de la clase administradora de la base de datos con el CRUD básico del cual heredarán las demás clases
+- Codificación del CRUD de Category
