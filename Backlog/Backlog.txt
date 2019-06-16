@@ -6,7 +6,6 @@ To Do
 - Creación de los métodos CRUD para Item
 - Consultas para pedir listas terminadas (se hizo la compra)
 - Consultas para pedir los precios de un producto en las listas terminadas
-- Creación de los métodos CRUD para BuyList
 - Creación de los métodos CRUD para Item
 
 Doing
@@ -14,14 +13,14 @@ Doing
 
 - Diseño Home con botones Categorias
 - ListView categorías creadas
-- Creación de los métodos CRUD para Product
+- Creación de los métodos CRUD para BuyList
 - Agregar metodos de la App
 
 
 Código hecho para testear/Revisar
 
 - Creacion de los métodos CRUD para Categoría
-
+- Creación de los métodos CRUD para Product
 
 Done
 
