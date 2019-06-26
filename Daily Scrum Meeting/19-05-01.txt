@@ -1,0 +1,24 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 02
+
+Fecha		01-05-19
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+      Aravena Julio
+
+
+¿Que hicimos?
+
+Se estandarizo el software a utilizar y se empezo a definir los parametros de la aplicacion
+
+Se trabajara en definir los parámetros y las diferentes funciones de la app
+
+Los impedimentos que vislumbramos son las otras materias, el cursado y la falta de conocimiento de los software a utilizar
+
+

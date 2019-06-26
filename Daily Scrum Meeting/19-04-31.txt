@@ -1,0 +1,18 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 01
+
+Fecha		31 de Abril de 2019
+Hora		Desde las 14:00 horas hastas las 14:15
+Lugar		Puerta delantera Facultad UTN
+
+Asistentes
+	Aravena Julio
+	Fracapani Fabricio
+	Martinez Matias
+	Juan Panasiti
+
+
+Juan Panasiti inicio el proyecto de la app en Android Studio y lo compartio a traves de github.
+
+Los demas nos encontramos con problemas en el conocimiento de Android y las tecnologias que lo rodean.

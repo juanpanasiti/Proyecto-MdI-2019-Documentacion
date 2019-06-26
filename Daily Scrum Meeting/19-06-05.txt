@@ -1,0 +1,20 @@
+Acta de Reunion del Equipo de Desarrollo
+
+
+Fecha		05-06-19
+Hora		Desde las 19:00 horas hastas las 20:30
+Lugar		Curso de la Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+Se busca infomacion respecto a diagramas en Android Studio para el diseño general de la app
+
+Juan panasiti comenzo con los diagramas para relaciones con la base de datos
+
+Fabricio Fracapanni se encargo del logo del proyecto
+
+

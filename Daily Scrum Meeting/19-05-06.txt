@@ -1,0 +1,23 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 
+
+Fecha		11-05-19
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+      Aravena Julio
+
+¿Que hicimos?
+Entrega documentacion sobre los diagramas de clases completo, producto, lista, item y categoria.
+
+¿Qué haremos hoy?
+Comienzo de base de datos en SQLite.
+Avanzar en el desarrollo de las activities.
+
+¿Hay impedimentos en tu camino?
+Relacion entre activities y clases definidas en los diagramas.

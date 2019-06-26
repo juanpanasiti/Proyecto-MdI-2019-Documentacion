@@ -1,0 +1,18 @@
+Acta de Reunion del Equipo de Desarrollo
+
+
+Fecha		01-05-19
+Hora		Desde las 19:15 horas hastas las 20:15
+Lugar		Quiosko media cuadra UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+Definimos las primeras ideas del proyecto
+
+Hoy definimos que herramientas ibamos a utilizar para estandarizar los programas
+
+Los impedimentos que encontramos es la diferencia a la hora de instalar programas o realizar la mayoria de las funciones en Linux con lo que uno esta acostumbrado que es Windows
