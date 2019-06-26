@@ -1,0 +1,21 @@
+Acta de Reunion del Equipo de Desarrollo
+
+
+Fecha		03-04-19
+Hora		Desde las 13:00 horas hastas las 14:30
+Lugar		Bufet Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+¿Que hicimos?
+
+Se propuso diferentes ideas para el proyecto y se seleccionaron las mas adecuadas
+
+Hoy se le va a presentar al profesor las diferentes ideas y se va a definir cual de estas vamos a llevar a cabo
+
+Los impedimentos que se visualizan son la difenrencia de software y la falta de conocimiento de las herramientas a utlizar
+

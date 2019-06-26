@@ -1,0 +1,20 @@
+Acta de Reunion del Equipo de Desarrollo
+
+
+Fecha		31 de Abril de 2019
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+        Aravena Julio
+
+
+Se reunieron los integrantes para quedar de acuerdo sobre la documentación a presentar para el recuperatorio
+
+Se discutio sobre algunos Daily Scrum Meetings anteriores
+
+Algunos de los impedimentos que tuvimos fue la creación de alguna categorias
+

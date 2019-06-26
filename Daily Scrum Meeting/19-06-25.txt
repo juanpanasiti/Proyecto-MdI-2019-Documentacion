@@ -1,0 +1,23 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 
+
+Fecha		25-06-19
+Hora		Desde las 18:00 horas hastas las 18:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+    Aravena Julio
+
+¿Que hicimos?
+Corregir errores en el código tras el último mergeo general.
+Puesta en común del estado de desarrollo
+
+¿Qué haremos hoy?
+Terminar de corregir bugs de compilacion, probar la app y pulir detalles gráficos
+
+¿Hay impedimentos en tu camino?
+

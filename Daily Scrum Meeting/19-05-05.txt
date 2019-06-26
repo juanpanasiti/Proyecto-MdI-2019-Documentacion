@@ -1,0 +1,23 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 
+
+Fecha		05-05-19
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+      Aravena Julio
+
+
+¿Que hicimos?
+Comenzamos el desarrollo de interfaz home basico.
+
+¿Qué haremos hoy?
+Los diagramas de clases en Dia.
+
+¿Hay impedimentos en tu camino?
+Tiempos en la capacitación.

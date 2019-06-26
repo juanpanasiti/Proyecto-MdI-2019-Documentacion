@@ -1,0 +1,23 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 
+
+Fecha		07-05-19
+Hora		Desde las 14:00 horas hastas las 14:30
+Lugar		Facultad UTN
+
+Asistentes
+	Juan Panasiti
+	Fracapani Fabricio
+	Martinez Matias
+      Aravena Julio
+
+¿Que hicimos?
+Definimos la idea del logotipo.
+Diagramas de clases de producto y categoria.
+
+¿Qué haremos hoy?
+Graficar y exportar el logotipo.
+
+¿Hay impedimentos en tu camino?
+Uso de programas graficos.

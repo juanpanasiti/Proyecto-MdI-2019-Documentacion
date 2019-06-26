@@ -1,0 +1,17 @@
+Acta de Reunion del Equipo de Desarrollo
+
+Acta 09
+
+Fecha		16 de Mayo de 2019
+Hora		Desde las 14:00 horas hastas las 14:15
+Lugar		Puerta delantera Facultad UTN
+
+Asistentes
+	Aravena Julio
+	Fracapani Fabricio
+	Martinez Matias
+	Juan Panasiti
+
+Se entrega el diagrama de navegabilidad, y las categorias con sus respectivas subcategorias.
+
+Se encuentran problemas en el uso de fragments contra activities.
