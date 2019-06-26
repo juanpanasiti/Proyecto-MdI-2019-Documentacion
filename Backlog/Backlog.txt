@@ -2,11 +2,8 @@ To Do
 =====
 
 - Consultas para pedir productos por categoría
-- Creación de los métodos CRUD para Buylist
-- Creación de los métodos CRUD para Item
 - Consultas para pedir listas terminadas (se hizo la compra)
 - Consultas para pedir los precios de un producto en las listas terminadas
-- Creación de los métodos CRUD para Item
 
 Doing
 =====
@@ -19,11 +16,13 @@ Doing
 
 Código hecho para testear/Revisar
 
-- Creacion de los métodos CRUD para Categoría
-- Creación de los métodos CRUD para Product
 
 Done
 
+- Creación de los métodos CRUD para Item
+- Creación de los métodos CRUD para Buylist
+- Creacion de los métodos CRUD para Categoría
+- Creación de los métodos CRUD para Product
 - Diseño de logo
 - Desarrollo de navegavilidad (intents) de la app entre categorias y home
 - Testing de desarrollo de navegavilidad de la app entre categorías y home
